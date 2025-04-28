@@ -30,5 +30,5 @@ Minjong Lee, Dongwoo Kim
 
 Education
 ======
-* Ph.D in Computer Science and Engineering from POSTECH (2022 ~) 
+* Ph.D. in Computer Science and Engineering from POSTECH (2022 ~) 
 * B.S. in Computer Science from Kookmin university (2018 ~ 2021)
