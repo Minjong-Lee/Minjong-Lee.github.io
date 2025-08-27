@@ -11,15 +11,16 @@ redirect_from:
 
 Publications
 ======
-**Holistic Unlearning Benchmark: A Multi-Faceted Evaluation for Text-to-Image Diffusion Model Unlearning**  
-Saemi Moon\*, Minjong Lee\*, Sangdon Park, Dongwoo Kim  
-*Preprint*  
-[Paper](https://arxiv.org/abs/2410.05664) | [Code](https://github.com/ml-postech/HUB)
 
 **CoPL: Collaborative Preference Learning for Personalizing LLMs**  
 Youngbin Choi, Seunghyuk Cho, Minjong Lee, MoonJeong Park, Yesong Ko, Jungseul Ok, Dongwoo Kim  
-*ICLR 2025 Workshop*  
+*EMNLP 2025*  
 [Paper](https://arxiv.org/abs/2503.01658)
+
+**Holistic Unlearning Benchmark: A Multi-Faceted Evaluation for Text-to-Image Diffusion Model Unlearning**  
+Saemi Moon\*, Minjong Lee\*, Sangdon Park, Dongwoo Kim  
+*ICCV 2025*  
+[Paper](https://arxiv.org/abs/2410.05664) | [Code](https://github.com/ml-postech/HUB)
 
 **Robust Evaluation of Diffusion-Based Adversarial Purification**  
 Minjong Lee, Dongwoo Kim  
