@@ -18,9 +18,9 @@ My goal is to develop practical methods that bring AI closer to real-world appli
 Publications
 ======
 
-**In-Place Feedback: A New Paradigm for Guiding LLMs in Multi-Turn Reasoning**  
+**In-Place Feedback: A New Paradigm for Guiding LLMs in Multi-Turn Reasoning**
 Youngbin Choi\*, Minjong Lee\*, Saemi Moon, Seunghyuk Cho, Chaehyeon Chung, MoonJeong Park, Dongwoo Kim
-*Arxiv* 
+*Arxiv*
 [Paper](https://arxiv.org/abs/2510.00777)
 
 
