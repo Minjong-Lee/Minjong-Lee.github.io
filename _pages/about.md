@@ -12,6 +12,12 @@ redirect_from:
 Publications
 ======
 
+**In-Place Feedback: A New Paradigm for Guiding LLMs in Multi-Turn Reasoning**  
+Youngbin Choi*, Minjong Lee*, Saemi Moon, Seunghyuk Cho, Chaehyeon Chung, MoonJeong Park, Dongwoo Kim
+*Arxiv*  
+[Paper](https://arxiv.org/abs/2510.00777)
+
+
 **CoPL: Collaborative Preference Learning for Personalizing LLMs**  
 Youngbin Choi, Seunghyuk Cho, Minjong Lee, MoonJeong Park, Yesong Ko, Jungseul Ok, Dongwoo Kim  
 *EMNLP 2025*  
