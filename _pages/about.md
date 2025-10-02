@@ -20,7 +20,7 @@ Publications
 
 **In-Place Feedback: A New Paradigm for Guiding LLMs in Multi-Turn Reasoning**  
 Youngbin Choi\*, Minjong Lee\*, Saemi Moon, Seunghyuk Cho, Chaehyeon Chung, MoonJeong Park, Dongwoo Kim
-*Arxiv*  
+*Arxiv* 
 [Paper](https://arxiv.org/abs/2510.00777)
 
 
