@@ -7,13 +7,19 @@ redirect_from:
   - /about.html
 ---
 
+About Me ([CV](https://drive.google.com/file/d/18aaNBxuxkwsgwKhaHhXvENN7YMbd0axG/view?usp=sharing))
+======
+
+I am a Ph.D. candidate in the Machine Learning Lab at POSTECH, advised by Prof. Dongwoo Kim.
+My research interests include generative models (e.g., diffusion models), LLMs, and VLMs.
+My goal is to develop practical methods that bring AI closer to real-world applications.
 
 
 Publications
 ======
 
 **In-Place Feedback: A New Paradigm for Guiding LLMs in Multi-Turn Reasoning**  
-Youngbin Choi*, Minjong Lee*, Saemi Moon, Seunghyuk Cho, Chaehyeon Chung, MoonJeong Park, Dongwoo Kim
+Youngbin Choi\*, Minjong Lee\*, Saemi Moon, Seunghyuk Cho, Chaehyeon Chung, MoonJeong Park, Dongwoo Kim
 *Arxiv*  
 [Paper](https://arxiv.org/abs/2510.00777)
 
