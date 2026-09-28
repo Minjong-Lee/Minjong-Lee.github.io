@@ -1,11 +1,11 @@
 ---
 title: "In-Place Feedback: A New Paradigm for Guiding LLMs in Multi-Turn Reasoning"
 collection: publications
-category: arxiv
+category: conferences
 permalink:
 excerpt:
 date: '2025.10'
-venue: 
+venue: 'EMNLP 2026 oral'
 paperurl: 'https://arxiv.org/abs/2510.00777'
 citation:
 ---
