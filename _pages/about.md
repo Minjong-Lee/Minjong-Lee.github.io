@@ -7,18 +7,22 @@ redirect_from:
   - /about.html
 ---
 
-About Me ([CV](https://drive.google.com/file/d/18aaNBxuxkwsgwKhaHhXvENN7YMbd0axG/view?usp=sharing))
+About Me
 ======
 
 I am a Ph.D. candidate in the Machine Learning Lab at POSTECH, advised by Prof. Dongwoo Kim.
 My research interests include generative models (e.g., diffusion models), LLMs, and VLMs.
 My goal is to develop practical methods that bring AI closer to real-world applications.
 
+<p class="header-links"><a href="https://drive.google.com/file/d/18aaNBxuxkwsgwKhaHhXvENN7YMbd0axG/view?usp=sharing">Curriculum Vitae (CV)</a></p>
+
 
 Publications
 ======
 
 <style>
+.page__content h1 { margin-top: 2.2em; padding-bottom: 0.35em; border-bottom: 2px solid #9aa5b1; }
+.page__content h1:first-of-type { margin-top: 0.3em; }
 .pub-note { font-size: 0.85em; color: #888; margin-bottom: 1.2em; }
 .pub-list { list-style: none; margin: 0; padding: 0; }
 .pub-item { padding: 1em 0; border-bottom: 1px solid #ececec; }
@@ -31,6 +35,9 @@ Publications
 .pub-links { margin-top: 0.4em; }
 .pub-links a { display: inline-block; font-size: 0.78em; font-weight: 600; text-decoration: none !important; color: #34495e; border: 1px solid #cfd6dc; border-radius: 4px; padding: 1px 9px; margin-right: 6px; transition: all 0.15s ease; }
 .pub-links a:hover { background: #34495e; color: #fff; border-color: #34495e; }
+.header-links { margin-top: 1em; }
+.header-links a { display: inline-block; font-size: 0.85em; font-weight: 600; text-decoration: none !important; color: #34495e; border: 1px solid #cfd6dc; border-radius: 4px; padding: 3px 12px; margin-right: 6px; transition: all 0.15s ease; }
+.header-links a:hover { background: #34495e; color: #fff; border-color: #34495e; }
 </style>
 
 <p class="pub-note">* denotes equal contribution (co-first authors).</p>
