@@ -25,7 +25,7 @@ Publications
 .pub-item:last-child { border-bottom: none; }
 .pub-title { font-size: 1.05em; font-weight: 700; line-height: 1.4; color: #222; }
 .pub-authors { font-size: 0.92em; color: #555; margin: 0.25em 0; }
-.pub-authors .me { font-weight: 700; color: #222; }
+.pub-authors .me { font-weight: 700; color: #333; }
 .pub-venue { font-size: 0.92em; color: #444; font-style: italic; }
 .pub-oral { color: rgb(192, 0, 0); font-weight: 600; font-style: normal; }
 .pub-links { margin-top: 0.4em; }
