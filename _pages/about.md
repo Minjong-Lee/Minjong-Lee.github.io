@@ -22,7 +22,7 @@ Publications
 
 **In-Place Feedback: A New Paradigm for Guiding LLMs in Multi-Turn Reasoning**  
 Youngbin Choi\*, **Minjong Lee**\*, Saemi Moon, Seunghyuk Cho, Chaehyeon Chung, MoonJeong Park, Dongwoo Kim  
-*EMNLP 2026* (<span style="color:#c0392b">Oral Presentation</span>)  
+*EMNLP 2026* (<span style="color:#8B0000">Oral Presentation</span>)  
 [Paper](https://arxiv.org/abs/2510.00777)
 
 
@@ -38,7 +38,7 @@ Saemi Moon\*, **Minjong Lee**\*, Sangdon Park, Dongwoo Kim
 
 **Robust Evaluation of Diffusion-Based Adversarial Purification**  
 **Minjong Lee**, Dongwoo Kim  
-*ICCV 2023* (<span style="color:#c0392b">Oral Presentation</span>)  
+*ICCV 2023* (<span style="color:#8B0000">Oral Presentation</span>)  
 [Paper](https://arxiv.org/abs/2303.09051) | [Code](https://github.com/ml-postech/robust-evaluation-of-diffusion-based-purification)
 
 
