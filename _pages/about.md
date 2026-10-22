@@ -14,7 +14,7 @@ I am a Ph.D. candidate in the Machine Learning Lab at POSTECH, advised by Prof. 
 My research interests include generative models (e.g., diffusion models), LLMs, and VLMs.
 My goal is to develop practical methods that bring AI closer to real-world applications.
 
-<p class="header-links"><a href="https://drive.google.com/file/d/18aaNBxuxkwsgwKhaHhXvENN7YMbd0axG/view?usp=sharing">Curriculum Vitae (CV)</a></p>
+<p class="header-links"><a href="https://drive.google.com/file/d/18aaNBxuxkwsgwKhaHhXvENN7YMbd0axG/view?usp=sharing">Curriculum Vitae (CV)</a><a href="/files/cv.pdf">CV (PDF)</a></p>
 
 
 Publications
