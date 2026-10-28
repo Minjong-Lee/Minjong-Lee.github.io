@@ -5,7 +5,7 @@ category: conferences
 permalink:
 excerpt:
 date: '2025.10'
-venue: 'EMNLP 2026 oral'
+venue: 'EMNLP 2026 oral, Outstanding Paper Award'
 paperurl: 'https://arxiv.org/abs/2510.00777'
 citation:
 ---

@@ -32,6 +32,7 @@ Publications
 .pub-authors .me { font-weight: 700; color: #333; }
 .pub-venue { font-size: 0.92em; color: #444; font-style: italic; }
 .pub-oral { color: rgb(192, 0, 0); font-weight: 600; font-style: normal; }
+.pub-award { display: inline-block; font-size: 0.82em; font-weight: 700; font-style: normal; color: #8a6d00; background: #fff7e0; border: 1px solid #e8c766; border-radius: 4px; padding: 1px 8px; }
 .pub-links { margin-top: 0.4em; }
 .pub-links a { display: inline-block; font-size: 0.78em; font-weight: 600; text-decoration: none !important; color: #34495e; border: 1px solid #cfd6dc; border-radius: 4px; padding: 1px 9px; margin-right: 6px; transition: all 0.15s ease; }
 .pub-links a:hover { background: #34495e; color: #fff; border-color: #34495e; }
@@ -47,7 +48,7 @@ Publications
   <li class="pub-item">
     <div class="pub-title">In-Place Feedback: A New Paradigm for Guiding LLMs in Multi-Turn Reasoning</div>
     <div class="pub-authors">Youngbin Choi*, <span class="me">Minjong Lee</span>*, Saemi Moon, Seunghyuk Cho, Chaehyeon Chung, MoonJeong Park, Dongwoo Kim</div>
-    <div class="pub-venue">EMNLP 2026 &nbsp;·&nbsp; <span class="pub-oral">Oral Presentation</span></div>
+    <div class="pub-venue">EMNLP 2026 &nbsp;·&nbsp; <span class="pub-oral">Oral Presentation</span> &nbsp;·&nbsp; <span class="pub-award">🏆 Outstanding Paper Award</span></div>
     <div class="pub-links"><a href="https://arxiv.org/abs/2510.00777">Paper</a></div>
   </li>
 
